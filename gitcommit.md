@@ -1,5 +1,4 @@
 [< на главную](./readme.md)
-***
 
 # **GIT commit**
 
