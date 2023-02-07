@@ -8,7 +8,8 @@ LICENSE: [MIT](license.md)
 ### *Содержание*
 
 1. [Что такое GIT?](%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20GIT.md)
-2.
+2. [Git config](gitconfig.md)
+3. Git init
 
 
 -----
