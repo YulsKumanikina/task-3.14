@@ -12,4 +12,4 @@
 
 
 ![программист](./assets/unnamed.jpg)
-###### Фото: Клео.Ру
+###### Фото: [Клео.Ру](https://www.kleo.ru/?utm_medium=source&utm_source=rfinance)

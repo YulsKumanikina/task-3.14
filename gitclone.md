@@ -7,6 +7,9 @@
 
 Клонировать можно как локальный (находящийся на вашем компьютере), так и удалённый (находящийся в сети) репозиторий.
 
-Пример:
+![схема git clone](./assets/clonee.jpg)
+##### Фото взято из [HugeDomains](https://www.hugedomains.com/domain_profile.cfm?d=techidiocy.com)
 
-git clone https://github.com/avsudnichnikov/example
+`Пример:`
+
+> *git clone https://github.com/avsudnichnikov/example*

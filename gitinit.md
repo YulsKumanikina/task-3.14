@@ -6,7 +6,7 @@
 
 
 ![git init](./assets/Git-init.jpg)
-##### источник: blog.faradars.org
+##### источник [faradars](blog.faradars.org)
 
 ----
 
